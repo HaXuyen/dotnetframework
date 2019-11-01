@@ -1,0 +1,52 @@
+C:\Users\Blindfold Gang\source\repos\AppG2\AppG2\bin\Debug\AppG2.exe.config
+C:\Users\Blindfold Gang\source\repos\AppG2\AppG2\bin\Debug\AppG2.exe
+C:\Users\Blindfold Gang\source\repos\AppG2\AppG2\bin\Debug\AppG2.pdb
+C:\Users\Blindfold Gang\source\repos\AppG2\AppG2\obj\Debug\AppG2.Properties.Resources.resources
+C:\Users\Blindfold Gang\source\repos\AppG2\AppG2\obj\Debug\AppG2.csproj.GenerateResource.cache
+C:\Users\Blindfold Gang\source\repos\AppG2\AppG2\obj\Debug\AppG2.csproj.CoreCompileInputs.cache
+C:\Users\Blindfold Gang\source\repos\AppG2\AppG2\obj\Debug\AppG2.exe
+C:\Users\Blindfold Gang\source\repos\AppG2\AppG2\obj\Debug\AppG2.pdb
+C:\Users\Blindfold Gang\source\repos\AppG2\AppG2\obj\Debug\AppG2.frmTinhToanCoBan.resources
+C:\Users\Blindfold Gang\source\repos\AppG2\AppG2\obj\Debug\AppG2.frmThongTinSinhVien2.resources
+C:\Users\Blindfold Gang\source\repos\AppG2\AppG2\obj\Debug\AppG2.View.frmThongTinSinhVien.resources
+C:\Users\Blindfold Gang\source\repos\AppG2\AppG2\bin\Debug\Data\student.txt
+C:\Users\Blindfold Gang\source\repos\AppG2\AppG2\bin\Debug\Data\learninghistory.txt
+C:\Users\Blindfold Gang\source\repos\AppG2\AppG2\obj\Debug\AppG2.View.frmQuaTrinhHocTapChiTiet.resources
+C:\Users\Blindfold Gang\source\repos\AppG2\AppG2\obj\Debug\AppG2.View.frmContact.resources
+C:\Users\Blindfold Gang\source\repos\AppG2\AppG2\bin\Debug\Data\contact.txt
+C:\Users\Blindfold Gang\source\repos\AppG2\AppG2\obj\Debug\AppG2.View.frmContactInfo.resources
+C:\Users\Blindfold Gang\source\repos\AppG2\AppG2\obj\Debug\AppG2.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\G2-HoangNgocThang-16T1021165-master (1)\G2-HoangNgocThang-16T1021165-master\bin\Debug\AppG2.exe.config
+C:\Users\Admin\Desktop\G2-HoangNgocThang-16T1021165-master (1)\G2-HoangNgocThang-16T1021165-master\obj\Debug\AppG2.exe
+C:\Users\Admin\Desktop\G2-HoangNgocThang-16T1021165-master (1)\G2-HoangNgocThang-16T1021165-master\obj\Debug\AppG2.pdb
+C:\Users\Admin\Desktop\G2-HoangNgocThang-16T1021165-master (1)\G2-HoangNgocThang-16T1021165-master\bin\Debug\Data\contact.txt
+C:\Users\Admin\Desktop\G2-HoangNgocThang-16T1021165-master (1)\G2-HoangNgocThang-16T1021165-master\bin\Debug\Data\learninghistory.txt
+C:\Users\Admin\Desktop\G2-HoangNgocThang-16T1021165-master (1)\G2-HoangNgocThang-16T1021165-master\bin\Debug\Data\student.txt
+C:\Users\Admin\Desktop\G2-HoangNgocThang-16T1021165-master (1)\G2-HoangNgocThang-16T1021165-master\bin\Debug\AppG2.exe
+C:\Users\Admin\Desktop\G2-HoangNgocThang-16T1021165-master (1)\G2-HoangNgocThang-16T1021165-master\bin\Debug\AppG2.pdb
+C:\Users\Admin\Desktop\G2-HoangNgocThang-16T1021165-master (1)\G2-HoangNgocThang-16T1021165-master\obj\Debug\AppG2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\G2-HoangNgocThang-16T1021165-master (1)\G2-HoangNgocThang-16T1021165-master\obj\Debug\AppG2.View.frmContact.resources
+C:\Users\Admin\Desktop\G2-HoangNgocThang-16T1021165-master (1)\G2-HoangNgocThang-16T1021165-master\obj\Debug\AppG2.View.frmContactInfo.resources
+C:\Users\Admin\Desktop\G2-HoangNgocThang-16T1021165-master (1)\G2-HoangNgocThang-16T1021165-master\obj\Debug\AppG2.View.frmQuaTrinhHocTapChiTiet.resources
+C:\Users\Admin\Desktop\G2-HoangNgocThang-16T1021165-master (1)\G2-HoangNgocThang-16T1021165-master\obj\Debug\AppG2.View.frmThongTinSinhVien.resources
+C:\Users\Admin\Desktop\G2-HoangNgocThang-16T1021165-master (1)\G2-HoangNgocThang-16T1021165-master\obj\Debug\AppG2.frmThongTinSinhVien2.resources
+C:\Users\Admin\Desktop\G2-HoangNgocThang-16T1021165-master (1)\G2-HoangNgocThang-16T1021165-master\obj\Debug\AppG2.frmTinhToanCoBan.resources
+C:\Users\Admin\Desktop\G2-HoangNgocThang-16T1021165-master (1)\G2-HoangNgocThang-16T1021165-master\obj\Debug\AppG2.Properties.Resources.resources
+C:\Users\Admin\Desktop\G2-HoangNgocThang-16T1021165-master (1)\G2-HoangNgocThang-16T1021165-master\obj\Debug\AppG2.csproj.GenerateResource.Cache
+E:\BaiTapKiemTra-master\BaiTapKiemTra\BaiTapKiemTra\hongquanG2\bin\Debug\Data\learninghistory.txt
+E:\BaiTapKiemTra-master\BaiTapKiemTra\BaiTapKiemTra\hongquanG2\bin\Debug\Data\contact.txt
+E:\BaiTapKiemTra-master\BaiTapKiemTra\BaiTapKiemTra\hongquanG2\bin\Debug\Data\student.txt
+E:\BaiTapKiemTra-master\BaiTapKiemTra\BaiTapKiemTra\hongquanG2\bin\Debug\AppG2.exe.config
+E:\BaiTapKiemTra-master\BaiTapKiemTra\BaiTapKiemTra\hongquanG2\bin\Debug\AppG2.exe
+E:\BaiTapKiemTra-master\BaiTapKiemTra\BaiTapKiemTra\hongquanG2\bin\Debug\AppG2.pdb
+E:\BaiTapKiemTra-master\BaiTapKiemTra\BaiTapKiemTra\hongquanG2\obj\Debug\AppG2.csprojAssemblyReference.cache
+E:\BaiTapKiemTra-master\BaiTapKiemTra\BaiTapKiemTra\hongquanG2\obj\Debug\AppG2.View.frmContact.resources
+E:\BaiTapKiemTra-master\BaiTapKiemTra\BaiTapKiemTra\hongquanG2\obj\Debug\AppG2.View.frmContactInfo.resources
+E:\BaiTapKiemTra-master\BaiTapKiemTra\BaiTapKiemTra\hongquanG2\obj\Debug\AppG2.View.frmQuaTrinhHocTapChiTiet.resources
+E:\BaiTapKiemTra-master\BaiTapKiemTra\BaiTapKiemTra\hongquanG2\obj\Debug\AppG2.View.frmThongTinSinhVien.resources
+E:\BaiTapKiemTra-master\BaiTapKiemTra\BaiTapKiemTra\hongquanG2\obj\Debug\AppG2.frmThongTinSinhVien2.resources
+E:\BaiTapKiemTra-master\BaiTapKiemTra\BaiTapKiemTra\hongquanG2\obj\Debug\AppG2.frmTinhToanCoBan.resources
+E:\BaiTapKiemTra-master\BaiTapKiemTra\BaiTapKiemTra\hongquanG2\obj\Debug\AppG2.Properties.Resources.resources
+E:\BaiTapKiemTra-master\BaiTapKiemTra\BaiTapKiemTra\hongquanG2\obj\Debug\AppG2.csproj.GenerateResource.cache
+E:\BaiTapKiemTra-master\BaiTapKiemTra\BaiTapKiemTra\hongquanG2\obj\Debug\AppG2.exe
+E:\BaiTapKiemTra-master\BaiTapKiemTra\BaiTapKiemTra\hongquanG2\obj\Debug\AppG2.pdb
